@@ -134,7 +134,7 @@ export default function PersistentDrawerLeft() {
           </Stack>
 
           <SidebarHeading variant="h6" noWrap component="div">
-            Elegant Library
+            Illakkiya kaapagam
           </SidebarHeading>
           <Box
             sx={{
@@ -214,7 +214,7 @@ export default function PersistentDrawerLeft() {
         open={open}
       >
         <DrawerHeader>
-          <SidebarHeading variant="h6">Elegant Library</SidebarHeading>
+          <SidebarHeading variant="h6">Illakkiya kaapagam</SidebarHeading>
           <IconButton onClick={handleDrawerClose}>
             {theme.direction === 'ltr' ? (
               <ChevronLeftIcon />
